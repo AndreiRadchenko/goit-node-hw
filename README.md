@@ -8,9 +8,13 @@
 node index --action list
 ```
 
-![img](https://monosnap.com/file/mWhe8cp5Qt0AGaN38gwLSLsw0oJnBC)
+![img](https://ibb.co/HD2RKCf)
 
-<img src="https://monosnap.com/file/mWhe8cp5Qt0AGaN38gwLSLsw0oJnBC" width="100%"></img>
+<img src="https://ibb.co/HD2RKCf" width="100%"></img>
+
+![Alt text](https://monosnap.com/image/mWhe8cp5Qt0AGaN38gwLSLsw0oJnBC)
+
+<img src="https://monosnap.com/image/mWhe8cp5Qt0AGaN38gwLSLsw0oJnBC"/>
 
 - Get contact by id
 
